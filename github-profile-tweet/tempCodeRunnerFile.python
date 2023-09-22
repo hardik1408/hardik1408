@@ -1,0 +1,31 @@
+import requests
+from requests_oauthlib import OAuth1
+# Replace with your Twitter API credentials
+consumer_key = 'LHoNZmIbCEWGuByAouFljWJtb'
+consumer_secret = 'zdCOyMfQMPAovsk7ufJ17M5N777JvecjlFVAu0KGSMApsJb4Nq'
+access_token = '1561805375740882946-Ue6xSX5MCaepw4K7XFBtpx3vqxWkrx'
+access_token_secret = '9b3183VPkDw92GLS24cpyyAjxHhTvmCAol6uihBxbc8wL'
+
+# Replace with the Twitter username for the account you want to fetch tweets from
+username = 'FCBarcelona'
+
+# Construct the Twitter API endpoint URL
+url = f'https://api.twitter.com/2/tweets?usernames={username}&max_results=1'
+
+# Set up OAuth1 authentication with your Twitter API credentials
+auth = OAuth1(
+    consumer_key,
+    consumer_secret,
+    access_token,
+    access_token_secret
+)
+
+# Make the API request
+response = requests.get(url, auth=auth)
+
+if response.status_code == 200:
+    data = response.json()
+    latest_tweet_id = data['data'][0]['id']
+    print(f"Latest Tweet ID: {latest_tweet_id}")
+else:
+    print(f"Failed to fetch latest tweet. Status code: {response.status_code}")
