@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently a second year undergraduate student in IITK<br>🌱 I’m currently learning Machine Learning and its applications<br>💬 Ask me about Football<br>⚡ Fun fact Bananas are naturally radioactive. They contain potassium, and a small fraction of potassium is the radioactive isotope potassium-40. But don't worry, you'd have to eat a massive number of bananas in a very short amount of time to get a harmful dose of radiation!
 
+[![](https://visitcount.itsvg.in/api?id=hardik1408&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hardikj_1408) 
@@ -13,6 +14,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik1408&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hardik1408&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
