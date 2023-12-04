@@ -4,6 +4,9 @@
 [![](https://visitcount.itsvg.in/api?id=hardik1408&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
+<a href="https://twitter.com/Priyans58944648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyans68345217" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanshu-71604b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu" height="30" width="40" /></a>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hardikj_1408) 
 
 # 💻 Tech Stack:
