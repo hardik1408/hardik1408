@@ -6,7 +6,6 @@
 ## 🌐 Socials:
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hardik1408" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hardik-jindal-1a2176250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hardik Jindal" height="30" width="40" /></a>
-<a href="https://instagram.com/hardikj_1408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hardikj_1408" height="30" width="40" /></a>
 
 
 # 💻 Tech Stack:
